@@ -1,5 +1,7 @@
 # AJS. Retro Game
 
+https://kresnov.github.io/js-advanced-diploma/
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
